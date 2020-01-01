@@ -1,0 +1,6 @@
+http_addr = ":28275"
+http_path = "/update"
+token = "YQSn-xWAQiiEh9qM58wZNnyQS7FUdoqGIUAbrh7T"
+zone = "023e105f4ecef8ad9ca31a8372d0c353"
+record_a = "372e67954025e0ba6aaa6d586b9e0b59"
+record_aaaa = "c8d1986abfda1f45955592a79461f4a6"
